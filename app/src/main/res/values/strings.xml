@@ -1,0 +1,7 @@
+<resources>
+    <string name="fragment"></string>
+    <string name="hello_blank_fragment"></string>
+    <string name="Haloo">Haloo Dunia!</string>
+    <string name="tab_text_1">Text1!</string>
+    <string name="tab_text_2">Text2!</string>
+</resources>
